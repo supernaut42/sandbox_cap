@@ -12,4 +12,4 @@ This is a simple CAP project with CDS serving a OData to a freestyle UI5 app.
 # Start
 
 - Open a new terminal and run `cds watch` 
-- Open localhost link from console (e.g. https://port4004-workspaces-ws-jmgzx.eu10.applicationstudio.cloud.sap/)
+- Open localhost link from console (e.g. https://port4004-workspaces-ws-jmgzx.eu10.applicationstudio.cloud.sap/) 
